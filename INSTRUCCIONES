@@ -1,0 +1,36 @@
+Ejercicio
+
+Crear un programa para verificar si una 
+cadena es un palindromo o no es un 
+palindromo.
+
+1.- Leer una cadena
+2.- Crear un metodo que invierta esa cadena
+(Usar el objeto de tipo pila con longitud 
+dinamica, creamos objeto de la clase pila,
+ utilizando los metodos, retirar e 
+ ingresar)
+3.- Tomar el primer caracter de la cadena
+e insertarlo en la pila hasta llegar al
+maximo de longitud de la cadena
+4.- Crear ciclos de retiro hasta que la 
+este vacia, retiramos por el tope, y lo 
+retiramos del nodo lo concatenaremos en 
+una cadena con el fin de armar la cadena 
+de nuevo
+
+OJO: Mientras la pila no este vacia lo 
+retiramos, al mismo tiempo que lo
+concatenamos
+
+
+NOTAS
+stdin.readlines
+
+CLASE PILA
+Insertar, retirar, vacio y mostrar para la clase
+pila, por ende investigar que es una pila y como 
+funciona, y ver como implementarla en java
+
+ESTUDIAR
+Manejo de tipos y caesteos
