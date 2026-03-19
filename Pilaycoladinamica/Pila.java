@@ -1,4 +1,4 @@
-package PilaYColaDinamica;
+package Pilaycoladinamica;
 public class Pila {
 
     // Clase Nodo interna
