@@ -1,4 +1,4 @@
-package Pilaycoladinamica;
+package pilaycoladinamica;
 public class Cola {
 
     // Método para invertir cadena 

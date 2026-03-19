@@ -1,4 +1,4 @@
-package Pilaycoladinamica;
+package pilaycoladinamica;
 import java.util.Scanner;
 
 public class Main {
